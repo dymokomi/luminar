@@ -1,0 +1,3 @@
+[submodule "external/wavelette"]
+	path = external/wavelette
+	url = https://github.com/dymokomi/wavelette.git
